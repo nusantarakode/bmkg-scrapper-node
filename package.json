@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wkwksama/bmkg-scrapper-node.git"
+    "url": "git+https://github.com/nusantarakode/bmkg-scrapper-node.git"
   },
   "keywords": [
     "bmkg",
     "scrapper",
     "json"
   ],
-  "author": "",
+  "author": "wkwksama",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wkwksama/bmkg-scrapper-node/issues"
+    "url": "https://github.com/nusantarakode/bmkg-scrapper-node/issues"
   },
-  "homepage": "https://github.com/wkwksama/bmkg-scrapper-node#readme"
+  "homepage": "https://github.com/nusantarakode/bmkg-scrapper-node#readme"
 }
