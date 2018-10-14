@@ -1,6 +1,6 @@
 {
   "name": "bmkg-scrapper",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Module Scrapper Web BKMG Indonesia",
   "main": "index.js",
   "dependencies": {
