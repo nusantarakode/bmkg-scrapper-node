@@ -1,3 +1,3 @@
-exports.printMessage = function () {
-  console.log("This is wkwksama npm package. Wohoo !");
-}
+const earthquake = require('./libs/earthquake')
+
+module.exports = { ...earthquake }
