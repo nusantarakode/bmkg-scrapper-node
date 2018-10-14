@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "description": "Module Scrapper Web BKMG Indonesia",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "nodemon": "^1.18.4"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
