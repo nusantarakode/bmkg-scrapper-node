@@ -1,20 +1,28 @@
 {
-  "name": "bmkg-scrapper-node",
+  "name": "bmkg-scrapper",
   "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "nodemon ./bin/www",
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
-    "express": "~4.16.0",
-    "hbs": "~4.0.1",
-    "http-errors": "~1.6.2",
-    "morgan": "~1.9.0"
-  },
+  "description": "Module Scrapper Web BKMG Indonesia",
+  "main": "index.js",
+  "dependencies": {},
   "devDependencies": {
     "nodemon": "^1.18.4"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nusantarakode/bmkg-scrapper-node.git"
+  },
+  "keywords": [
+    "bmkg",
+    "scrapper",
+    "json"
+  ],
+  "author": "wkwksama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nusantarakode/bmkg-scrapper-node/issues"
+  },
+  "homepage": "https://github.com/nusantarakode/bmkg-scrapper-node#readme"
 }
